@@ -1,0 +1,104 @@
+{% include header.html %}
+
+{% assign user = content | strip_newlines %}
+{% assign votestat = site.data.userdata[user]["votes_stat"] %}
+<main>
+<div class="container">
+  <div class="row">
+    <h2>User's vote differences comparing to official ratings(provided by imdb)</h2>
+    {% assign diff = site.data.userdata[user]["officialdiff"]["diff"] %}
+    <h4>Vote differences: {{diff}} ({{site.data.userdata[user]["officialdiff"]["count"]}} differences found)</h4>
+    <div id="votehistogram" class="uservotes col-md-6"></div>
+  </div>
+  <div class="row">
+    <h2>User ratings</h2>
+    <table class="table-striped table-hover tablesorter col-md-6 pull-left" id="uservotes">
+      <thead>
+        <tr>
+          <th>Vote</th>
+          <th>% of total votes</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for votes in votestat %}
+      <tr><td>{{votes[0]}}</td><td>{{votes[1]}}</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    <div id="placeholder" class="uservotes col-md-6 pull-right"></div>
+  </div>
+  <div class="row">
+    <h2>User multivotes</h2>
+    <table class="table-striped table-hover tablesorter col-md-6">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Votes</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for movie in site.data.globaldata.multivoters %}
+        {% if movie[1][user] != null %}
+        <tr><td>{{movie[0]}}</td><td><ul>
+            {% for votelist in movie[1][user] %}
+              {% for vote in votelist %}
+                <li>{{vote[0]}}({{vote[1]}})</li>
+              {% endfor %}
+            {% endfor %}
+          </ul>
+        </td></tr>
+        {% endif %}
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+</main>
+
+{% include footer.html %}
+
+<script type="text/javascript">
+
+  $(function() {
+    var positivevotes = [];
+    var negativevotes = [];
+    {% for vote in site.data.userdata[user]["votehistogram"]["negative"] %}
+    negativevotes.push([{{vote[0]}},{{vote[1]}}])
+    {% endfor %}
+    {% for vote in site.data.userdata[user]["votehistogram"]["positive"] %}
+    positivevotes.push([{{vote[0]}},{{vote[1]}}])
+    {% endfor %}
+
+    var d1 = [];
+    {% for votes in votestat %}
+    d1.push([{{votes[0]}}, {{votes[1]}}]);
+    {% endfor %}
+
+    $.plot("#placeholder", [ {label: 'Vote', data: d1} ], {
+        yaxis: {
+          tickFormatter: function(val, axis) {
+            return val + "%";
+          },
+        },
+    });
+    $.plot("#votehistogram", [ {label: 'Negative', data: negativevotes, color: 'blue'}, {label: 'Positive', data: positivevotes, color: 'red'} ], {
+        series: {
+          stack: 0,
+          lines: {
+            show: false,
+            fill: true,
+            steps: false
+          },
+          bars: {
+            show: true,
+            barWidth: 0.6,
+          },
+        },
+        xaxis: {
+          min: 0, 
+          max: 10,
+          tickSize: 1,
+        },
+    });
+  });
+</script>

@@ -1,0 +1,385 @@
+---
+top25:
+  1:
+    title: The Prestige
+    avg_vote: '9.44'
+    votes: '9'
+  2:
+    title: Rush
+    avg_vote: '9.33'
+    votes: '3'
+  3:
+    title: The Matrix
+    avg_vote: '9.33'
+    votes: '9'
+  4:
+    title: The Intouchables
+    avg_vote: '9.33'
+    votes: '6'
+  5:
+    title: Gattaca
+    avg_vote: '9.20'
+    votes: '5'
+  6:
+    title: Kung Fury
+    avg_vote: '9.20'
+    votes: '5'
+  7:
+    title: 12 Angry Men
+    avg_vote: '9.17'
+    votes: '6'
+  8:
+    title: The Hunt
+    avg_vote: '9.14'
+    votes: '7'
+  9:
+    title: The Shawshank Redemption
+    avg_vote: '9.13'
+    votes: '8'
+  10:
+    title: The Artist
+    avg_vote: '9.00'
+    votes: '3'
+  11:
+    title: Network
+    avg_vote: '9.00'
+    votes: '3'
+  12:
+    title: Lock, Stock and Two Smoking Barrels
+    avg_vote: '9.00'
+    votes: '6'
+  13:
+    title: The Return
+    avg_vote: '9.00'
+    votes: '3'
+  14:
+    title: Stay
+    avg_vote: '9.00'
+    votes: '5'
+  15:
+    title: It's a Wonderful Life
+    avg_vote: '9.00'
+    votes: '3'
+  16:
+    title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
+  17:
+    title: Aliens
+    avg_vote: '8.88'
+    votes: '8'
+  18:
+    title: The Man from Earth
+    avg_vote: '8.88'
+    votes: '8'
+  19:
+    title: Inherit the Wind
+    avg_vote: '8.75'
+    votes: '4'
+  20:
+    title: The Good, the Bad and the Ugly
+    avg_vote: '8.75'
+    votes: '4'
+  21:
+    title: One Flew Over the Cuckoo's Nest
+    avg_vote: '8.75'
+    votes: '4'
+  22:
+    title: A Beautiful Mind
+    avg_vote: '8.75'
+    votes: '4'
+  23:
+    title: Her
+    avg_vote: '8.75'
+    votes: '4'
+  24:
+    title: Pulp Fiction
+    avg_vote: '8.71'
+    votes: '7'
+  25:
+    title: Forrest Gump
+    avg_vote: '8.71'
+    votes: '7'
+multivoters:
+  Batman Begins:
+    Molcsa:
+    - '2013-10-27': '9'
+    - '2014-04-22': '10'
+    - '2014-11-10': '9'
+  Stay:
+    Molcsa:
+    - '2012-09-15': '9'
+    - '2014-11-16': '10'
+    - '2015-06-01': '9'
+  The Avengers:
+    Bensze:
+    - '2014-02-25': '9'
+    - '2014-02-27': '8'
+  It Follows:
+    Bervi:
+    - '2015-07-12': '7'
+    - '2015-08-08': '6'
+  Pulp Fiction:
+    Molcsa:
+    - '2012-10-11': '10'
+    - '2015-06-03': '9'
+  The Man from Earth:
+    Bervi:
+    - '2011-09-29': '8'
+    - '2015-07-12': '7'
+  Looper:
+    Bensze:
+    - '2014-03-03': '6'
+    - '2015-02-20': '5'
+  Se7en:
+    Bensze:
+    - '2014-02-25': '6'
+    - '2015-09-23': '8'
+  3:10 to Yuma:
+    Molcsa:
+    - '2013-10-27': '8'
+    - '2013-11-09': '7'
+  Bad Boys:
+    Molcsa:
+    - '2013-11-07': '6'
+    - '2015-06-23': '8'
+  God Bless America:
+    Gweli:
+    - '2012-07-11': '7'
+    - '2014-01-26': '9'
+  'Die Hard: With a Vengeance':
+    Molcsa:
+    - '2014-01-16': '6'
+    - '2014-03-10': '6'
+  'Aliens vs. Predator: Requiem':
+    Bensze:
+    - '2014-02-25': '6'
+    - '2014-03-14': '4'
+  Scott Pilgrim vs. the World:
+    Molcsa:
+    - '2014-06-15': '8'
+    - '2014-10-02': '7'
+  'X-Men: The Last Stand':
+    Molcsa:
+    - '2013-10-27': '7'
+    - '2014-06-12': '8'
+  The Shawshank Redemption:
+    Molcsa:
+    - '2015-06-02': '10'
+    - '2015-06-03': '9'
+  The Human Centipede II (Full Sequence):
+    Bervi:
+    - '2013-01-05': '6'
+    - '2015-07-12': '7'
+  Zoolander:
+    Molcsa:
+    - '2014-03-11': '6'
+    - '2015-06-03': '7'
+  Now You See Me:
+    Molcsa:
+    - '2013-10-27': '7'
+    - '2013-12-11': '6'
+  Jacob's Ladder:
+    Rheya:
+    - '2011-07-04': '8'
+    - '2015-02-20': '10'
+  Rocky Balboa:
+    Molcsa:
+    - '2013-10-28': '6'
+    - '2014-08-06': '8'
+  The Prestige:
+    Gweli:
+    - '2010-10-26': '10'
+    - '2015-12-28': '10'
+  In the Heart of the Sea:
+    Warc:
+    - '2015-12-25': '8'
+    - '2015-12-28': '7'
+  We Are Still Here:
+    Rheya:
+    - '2015-09-24': '6'
+    - '2015-09-28': '6'
+  Con Air:
+    Molcsa:
+    - '2013-11-22': '5'
+    - '2014-01-16': '6'
+  Life as a House:
+    Molcsa:
+    - '2014-03-09': '6'
+    - '2014-08-07': '7'
+  Grown Ups 2:
+    Molcsa:
+    - '2014-02-09': '5'
+    - '2014-02-11': '4'
+  American Psycho:
+    Tommy:
+    - '2012-08-29': '8'
+    - '2015-01-14': '9'
+    Molcsa:
+    - '2013-10-27': '6'
+    - '2015-06-28': '8'
+  The Shining:
+    Molcsa:
+    - '2013-11-02': '9'
+    - '2013-12-25': '10'
+  'Alien: Resurrection':
+    Warc:
+    - '2010-10-10': '7'
+    - '2015-01-31': '6'
+  World War Z:
+    Molcsa:
+    - '2013-10-28': '6'
+    - '2013-12-11': '5'
+  'Pirates of the Caribbean: On Stranger Tides':
+    Molcsa:
+    - '2012-09-18': '8'
+    - '2013-11-18': '7'
+  Shutter Island:
+    Bensze:
+    - '2014-02-25': '6'
+    - '2014-03-03': '5'
+  Equilibrium:
+    Gweli:
+    - '2011-11-20': '7'
+    - '2015-07-07': '8'
+  Ocean's Thirteen:
+    Molcsa:
+    - '2013-10-28': '7'
+    - '2013-11-22': '6'
+  Hart's War:
+    Molcsa:
+    - '2012-12-06': '8'
+    - '2014-01-16': '7'
+  Jersey Girl:
+    Molcsa:
+    - '2013-10-28': '7'
+    - '2013-11-22': '6'
+  'The Hobbit: The Battle of the Five Armies':
+    Tommy:
+    - '2015-02-22': '7'
+    - '2015-03-25': '8'
+  Fun with Dick and Jane:
+    Molcsa:
+    - '2012-09-15': '8'
+    - '2015-08-09': '7'
+  The Fast and the Furious:
+    Molcsa:
+    - '2013-11-18': '5'
+    - '2014-03-10': '6'
+  Southland Tales:
+    Rheya:
+    - '2011-12-01': '7'
+    - '2014-12-31': '9'
+  Inception:
+    Shank:
+    - '2013-10-27': '8'
+    - '2014-02-19': '9'
+  'X-Men: First Class':
+    Molcsa:
+    - '2013-10-27': '7'
+    - '2014-06-12': '8'
+  Crime Busters:
+    Molcsa:
+    - '2014-01-09': '7'
+    - '2014-11-26': '8'
+  Die Hard:
+    Molcsa:
+    - '2014-01-16': '6'
+    - '2014-03-10': '7'
+  River Monsters:
+    Molcsa:
+    - '2013-11-09': '8'
+    - '2015-05-18': '9'
+  Clerks.:
+    Rheya:
+    - '2011-08-16': '7'
+    - '2014-10-23': '9'
+  Fury:
+    Warc:
+    - '2014-12-01': '7'
+    - '2014-12-01': '6'
+  The Last Samurai:
+    Molcsa:
+    - '2013-10-27': '9'
+    - '2015-02-20': '8'
+  'Harry Potter and the Deathly Hallows: Part 2':
+    Bensze:
+    - '2014-02-25': '7'
+    - '2014-03-18': '6'
+  We're the Millers:
+    Molcsa:
+    - '2014-01-09': '8'
+    - '2014-03-24': '7'
+  The Girl with the Dragon Tattoo:
+    Molcsa:
+    - '2013-10-27': '8'
+    - '2015-08-14': '9'
+  Jurassic Park III:
+    Molcsa:
+    - '2014-04-28': '6'
+    - '2014-11-13': '5'
+  Casino Royale:
+    Molcsa:
+    - '2014-03-11': '6'
+    - '2015-10-31': '7'
+  The Island:
+    Bensze:
+    - '2014-03-03': '6'
+    - '2014-03-31': '7'
+  The Machinist:
+    Molcsa:
+    - '2013-10-27': '7'
+    - '2015-07-06': '8'
+  Zodiac:
+    Molcsa:
+    - '2012-12-26': '9'
+    - '2015-08-01': '8'
+  Aladdin:
+    Molcsa:
+    - '2013-11-18': '7'
+    - '2015-06-03': '8'
+  My Bloody Valentine:
+    Rheya:
+    - '2011-07-12': '4'
+    - '2014-07-16': '2'
+  The Dark Knight Rises:
+    Molcsa:
+    - '2013-10-27': '9'
+    - '2014-04-22': '10'
+  'Pirates of the Caribbean: The Curse of the Black Pearl':
+    Molcsa:
+    - '2012-09-18': '9'
+    - '2013-11-18': '8'
+  'Cosmos: A Space-Time Odyssey':
+    Tommy:
+    - '2014-03-30': '9'
+    - '2014-06-16': '10'
+  The Royal Tenenbaums:
+    Rheya:
+    - '2013-07-30': '7'
+    - '2013-12-20': '9'
+  Twelve Monkeys:
+    Molcsa:
+    - '2012-09-15': '10'
+    - '2014-01-16': '9'
+  Man of Steel:
+    Molcsa:
+    - '2013-11-28': '7'
+    - '2013-12-11': '6'
+  The Majestic:
+    Molcsa:
+    - '2013-10-27': '9'
+    - '2013-11-22': '8'
+  The Amazing Spider-Man 2:
+    Bensze:
+    - '2014-04-21': '6'
+    - '2014-05-14': '5'
+multivoterstat:
+  Molcsa: 41
+  Bensze: 8
+  Bervi: 3
+  Gweli: 3
+  Rheya: 6
+  Warc: 3
+  Tommy: 3
+  Shank: 1
