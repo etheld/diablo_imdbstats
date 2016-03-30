@@ -9,13 +9,13 @@ top25:
     avg_vote: '9.33'
     votes: '9'
   3:
-    title: The Intouchables
-    avg_vote: '9.33'
-    votes: '6'
-  4:
     title: Rush
     avg_vote: '9.33'
     votes: '3'
+  4:
+    title: The Intouchables
+    avg_vote: '9.33'
+    votes: '6'
   5:
     title: Gattaca
     avg_vote: '9.20'
@@ -37,27 +37,27 @@ top25:
     avg_vote: '9.13'
     votes: '8'
   10:
-    title: Lock, Stock and Two Smoking Barrels
-    avg_vote: '9.00'
-    votes: '6'
-  11:
-    title: The Artist
-    avg_vote: '9.00'
-    votes: '3'
-  12:
-    title: The Return
-    avg_vote: '9.00'
-    votes: '3'
-  13:
-    title: It's a Wonderful Life
-    avg_vote: '9.00'
-    votes: '3'
-  14:
     title: Network
     avg_vote: '9.00'
     votes: '3'
-  15:
+  11:
+    title: It's a Wonderful Life
+    avg_vote: '9.00'
+    votes: '3'
+  12:
+    title: Lock, Stock and Two Smoking Barrels
+    avg_vote: '9.00'
+    votes: '6'
+  13:
     title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
+  14:
+    title: The Artist
+    avg_vote: '9.00'
+    votes: '3'
+  15:
+    title: The Return
     avg_vote: '9.00'
     votes: '3'
   16:
@@ -77,15 +77,15 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   20:
-    title: One Flew Over the Cuckoo's Nest
+    title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
   21:
-    title: Her
+    title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
     votes: '4'
   22:
-    title: The Good, the Bad and the Ugly
+    title: Her
     avg_vote: '8.75'
     votes: '4'
   23:
@@ -97,9 +97,9 @@ top25:
     avg_vote: '8.71'
     votes: '7'
   25:
-    title: Night on Earth
-    avg_vote: '8.67'
-    votes: '3'
+    title: Interstellar
+    avg_vote: '8.71'
+    votes: '7'
 multivoters:
   Batman Begins:
     Molcsa:
@@ -111,6 +111,10 @@ multivoters:
     - '2012-09-15': '9'
     - '2014-11-16': '10'
     - '2015-06-01': '9'
+  The Amazing Spider-Man 2:
+    Bensze:
+    - '2014-04-21': '6'
+    - '2014-05-14': '5'
   The Avengers:
     Bensze:
     - '2014-02-25': '9'
@@ -211,6 +215,10 @@ multivoters:
     Molcsa:
     - '2014-03-09': '6'
     - '2014-08-07': '7'
+  Everest:
+    Bensze:
+    - '2016-01-07': '5'
+    - '2016-02-07': '5'
   Grown Ups 2:
     Molcsa:
     - '2014-02-09': '5'
@@ -294,6 +302,10 @@ multivoters:
     Molcsa:
     - '2013-11-09': '8'
     - '2015-05-18': '9'
+  Trumbo:
+    Tommy:
+    - '2016-02-08': '8'
+    - '2016-02-09': '7'
   Clerks.:
     Rheya:
     - '2011-08-16': '7'
@@ -366,24 +378,24 @@ multivoters:
     Molcsa:
     - '2012-09-15': '10'
     - '2014-01-16': '9'
-  Man of Steel:
+  The Walking Dead:
     Molcsa:
-    - '2013-11-28': '7'
-    - '2013-12-11': '6'
+    - '2013-10-30': '8'
+    - '2016-03-23': '9'
   The Majestic:
     Molcsa:
     - '2013-10-27': '9'
     - '2013-11-22': '8'
-  The Amazing Spider-Man 2:
-    Bensze:
-    - '2014-04-21': '6'
-    - '2014-05-14': '5'
+  Man of Steel:
+    Molcsa:
+    - '2013-11-28': '7'
+    - '2013-12-11': '6'
 multivoterstat:
-  Molcsa: 42
-  Bensze: 8
+  Molcsa: 43
+  Bensze: 9
   Bervi: 3
   Gweli: 3
   Rheya: 6
   Warc: 3
-  Tommy: 3
+  Tommy: 4
   Shank: 1
