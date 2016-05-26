@@ -1,13 +1,13 @@
 ---
 top25:
   1:
-    title: The Intouchables
-    avg_vote: '9.33'
-    votes: '6'
-  2:
     title: Rush
     avg_vote: '9.33'
     votes: '3'
+  2:
+    title: The Intouchables
+    avg_vote: '9.33'
+    votes: '6'
   3:
     title: The Matrix
     avg_vote: '9.30'
@@ -37,15 +37,15 @@ top25:
     avg_vote: '9.00'
     votes: '7'
   10:
-    title: Network
+    title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
   11:
-    title: The Return
+    title: Stay
     avg_vote: '9.00'
-    votes: '3'
+    votes: '6'
   12:
-    title: It's a Wonderful Life
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   13:
@@ -53,11 +53,11 @@ top25:
     avg_vote: '9.00'
     votes: '3'
   14:
-    title: Stay
+    title: Network
     avg_vote: '9.00'
-    votes: '6'
+    votes: '3'
   15:
-    title: Witness for the Prosecution
+    title: The Return
     avg_vote: '9.00'
     votes: '3'
   16:
@@ -97,20 +97,20 @@ top25:
     avg_vote: '8.71'
     votes: '7'
   25:
-    title: Night on Earth
+    title: Death of a Salesman
     avg_vote: '8.67'
     votes: '3'
 multivoters:
-  Stay:
-    Molcsa:
-    - '2012-09-15': '9'
-    - '2014-11-16': '10'
-    - '2015-06-01': '9'
   Batman Begins:
     Molcsa:
     - '2013-10-27': '9'
     - '2014-04-22': '10'
     - '2014-11-10': '9'
+  Stay:
+    Molcsa:
+    - '2012-09-15': '9'
+    - '2014-11-16': '10'
+    - '2015-06-01': '9'
   The Amazing Spider-Man 2:
     Bensze:
     - '2014-04-21': '6'
@@ -210,6 +210,10 @@ multivoters:
     Warc:
     - '2015-12-25': '8'
     - '2015-12-28': '7'
+  'Crank: High Voltage':
+    Gweli:
+    - '2010-10-27': '3'
+    - '2016-05-25': '6'
   We Are Still Here:
     Rheya:
     - '2015-09-24': '6'
@@ -361,6 +365,10 @@ multivoters:
     Molcsa:
     - '2014-03-11': '6'
     - '2015-10-31': '7'
+  Despicable Me:
+    Gweli:
+    - '2013-02-16': '6'
+    - '2016-05-25': '7'
   The Island:
     Bensze:
     - '2014-03-03': '6'
@@ -417,7 +425,7 @@ multivoterstat:
   Molcsa: 44
   Bensze: 9
   Bervi: 3
-  Gweli: 3
+  Gweli: 5
   Rheya: 6
   Name: 5
   Warc: 3
