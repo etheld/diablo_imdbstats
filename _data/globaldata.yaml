@@ -101,20 +101,21 @@ top25:
     avg_vote: '8.67'
     votes: '3'
 multivoters:
-  Batman Begins:
-    Molcsa:
-    - '2013-10-27': '9'
-    - '2014-04-22': '10'
-    - '2014-11-10': '9'
   Stay:
     Molcsa:
     - '2012-09-15': '9'
     - '2014-11-16': '10'
     - '2015-06-01': '9'
-  The Amazing Spider-Man 2:
-    Bensze:
-    - '2014-04-21': '6'
-    - '2014-05-14': '5'
+  The Iron Giant:
+    Name:
+    - '2014-12-01': '5'
+    - '2016-05-14': '4'
+    - '2016-06-03': '5'
+  Batman Begins:
+    Molcsa:
+    - '2013-10-27': '9'
+    - '2014-04-22': '10'
+    - '2014-11-10': '9'
   The Avengers:
     Bensze:
     - '2014-02-25': '9'
@@ -245,10 +246,6 @@ multivoters:
     Molcsa:
     - '2013-10-27': '6'
     - '2015-06-28': '8'
-  The Iron Giant:
-    Name:
-    - '2014-12-01': '5'
-    - '2016-05-14': '4'
   The Shining:
     Molcsa:
     - '2013-11-02': '9'
@@ -421,13 +418,17 @@ multivoters:
     Molcsa:
     - '2013-11-28': '7'
     - '2013-12-11': '6'
+  The Amazing Spider-Man 2:
+    Bensze:
+    - '2014-04-21': '6'
+    - '2014-05-14': '5'
 multivoterstat:
   Molcsa: 44
+  Name: 5
   Bensze: 9
   Bervi: 3
   Gweli: 5
   Rheya: 6
-  Name: 5
   Warc: 3
   Tommy: 4
   Shank: 1
