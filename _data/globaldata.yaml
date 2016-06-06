@@ -191,6 +191,10 @@ multivoters:
     Molcsa:
     - '2013-10-27': '7'
     - '2013-12-11': '6'
+  The Game:
+    Tommy:
+    - '2012-08-29': '7'
+    - '2016-06-06': '8'
   Jacob's Ladder:
     Rheya:
     - '2011-07-04': '8'
@@ -428,7 +432,7 @@ multivoterstat:
   Bensze: 9
   Bervi: 3
   Gweli: 5
+  Tommy: 5
   Rheya: 6
   Warc: 3
-  Tommy: 4
   Shank: 1
