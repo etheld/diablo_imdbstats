@@ -1,13 +1,13 @@
 ---
 top25:
   1:
-    title: Rush
-    avg_vote: '9.33'
-    votes: '3'
-  2:
     title: The Intouchables
     avg_vote: '9.33'
     votes: '6'
+  2:
+    title: Rush
+    avg_vote: '9.33'
+    votes: '3'
   3:
     title: The Matrix
     avg_vote: '9.30'
@@ -33,27 +33,27 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   9:
-    title: Lock, Stock and Two Smoking Barrels
-    avg_vote: '9.00'
-    votes: '7'
-  10:
-    title: It's a Wonderful Life
-    avg_vote: '9.00'
-    votes: '3'
-  11:
-    title: Stay
-    avg_vote: '9.00'
-    votes: '6'
-  12:
-    title: Witness for the Prosecution
-    avg_vote: '9.00'
-    votes: '3'
-  13:
     title: The Artist
     avg_vote: '9.00'
     votes: '3'
-  14:
+  10:
+    title: Lock, Stock and Two Smoking Barrels
+    avg_vote: '9.00'
+    votes: '7'
+  11:
+    title: It's a Wonderful Life
+    avg_vote: '9.00'
+    votes: '3'
+  12:
+    title: Stay
+    avg_vote: '9.00'
+    votes: '6'
+  13:
     title: Network
+    avg_vote: '9.00'
+    votes: '3'
+  14:
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   15:
@@ -81,11 +81,11 @@ top25:
     avg_vote: '8.75'
     votes: '8'
   21:
-    title: The Good, the Bad and the Ugly
+    title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
     votes: '4'
   22:
-    title: One Flew Over the Cuckoo's Nest
+    title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
   23:
