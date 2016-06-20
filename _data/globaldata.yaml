@@ -101,11 +101,6 @@ top25:
     avg_vote: '8.67'
     votes: '3'
 multivoters:
-  The Iron Giant:
-    Name:
-    - '2014-12-01': '5'
-    - '2016-05-14': '4'
-    - '2016-06-03': '5'
   Batman Begins:
     Molcsa:
     - '2013-10-27': '9'
@@ -116,6 +111,11 @@ multivoters:
     - '2012-09-15': '9'
     - '2014-11-16': '10'
     - '2015-06-01': '9'
+  The Iron Giant:
+    Name:
+    - '2014-12-01': '5'
+    - '2016-05-14': '4'
+    - '2016-06-03': '5'
   The Avengers:
     Bensze:
     - '2014-02-25': '9'
@@ -163,6 +163,10 @@ multivoters:
     Molcsa:
     - '2014-01-16': '6'
     - '2014-03-10': '6'
+  I Origins:
+    Name:
+    - '2015-02-15': '4'
+    - '2016-06-19': '5'
   'Aliens vs. Predator: Requiem':
     Bensze:
     - '2014-02-25': '6'
@@ -358,6 +362,10 @@ multivoters:
     Molcsa:
     - '2013-10-27': '8'
     - '2015-08-14': '9'
+  Dirty Grandpa:
+    Name:
+    - '2016-06-03': '5'
+    - '2016-06-19': '4'
   Jurassic Park III:
     Molcsa:
     - '2014-04-28': '6'
@@ -431,8 +439,8 @@ multivoters:
     - '2014-04-21': '6'
     - '2014-05-14': '5'
 multivoterstat:
-  Name: 6
   Molcsa: 44
+  Name: 8
   Bensze: 9
   Bervi: 3
   Gweli: 5
