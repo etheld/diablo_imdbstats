@@ -101,6 +101,16 @@ top25:
     avg_vote: '8.67'
     votes: '3'
 multivoters:
+  Dirty Grandpa:
+    Name:
+    - '2016-06-03': '5'
+    - '2016-06-19': '4'
+    - '2016-07-10': '3'
+  The Iron Giant:
+    Name:
+    - '2014-12-01': '5'
+    - '2016-05-14': '4'
+    - '2016-06-03': '5'
   Batman Begins:
     Molcsa:
     - '2013-10-27': '9'
@@ -111,18 +121,6 @@ multivoters:
     - '2012-09-15': '9'
     - '2014-11-16': '10'
     - '2015-06-01': '9'
-  The Iron Giant:
-    Name:
-    - '2014-12-01': '5'
-    - '2016-05-14': '4'
-    - '2016-06-03': '5'
-  The Avengers:
-    Bensze:
-    - '2014-02-25': '9'
-    - '2014-02-27': '8'
-    Molcsa:
-    - '2013-10-27': '7'
-    - '2016-04-11': '6'
   It Follows:
     Bervi:
     - '2015-07-12': '7'
@@ -254,6 +252,17 @@ multivoters:
     Molcsa:
     - '2013-10-27': '6'
     - '2015-06-28': '8'
+  The Avengers:
+    Molcsa:
+    - '2013-10-27': '7'
+    - '2016-04-11': '6'
+    Bensze:
+    - '2014-02-25': '9'
+    - '2014-02-27': '8'
+  Gods of Egypt:
+    Name:
+    - '2016-05-21': '4'
+    - '2016-07-10': '3'
   The Shining:
     Molcsa:
     - '2013-11-02': '9'
@@ -278,6 +287,10 @@ multivoters:
     Gweli:
     - '2011-11-20': '7'
     - '2015-07-07': '8'
+  Battleship:
+    Name:
+    - '2016-07-10': '4'
+    - '2016-07-10': '3'
   Vacation:
     Name:
     - '2016-06-12': '6'
@@ -346,6 +359,10 @@ multivoters:
     Warc:
     - '2014-12-01': '7'
     - '2014-12-01': '6'
+  Hotel Transylvania:
+    Name:
+    - '2016-05-14': '4'
+    - '2016-07-10': '6'
   The Last Samurai:
     Molcsa:
     - '2013-10-27': '9'
@@ -362,10 +379,6 @@ multivoters:
     Molcsa:
     - '2013-10-27': '8'
     - '2015-08-14': '9'
-  Dirty Grandpa:
-    Name:
-    - '2016-06-03': '5'
-    - '2016-06-19': '4'
   Jurassic Park III:
     Molcsa:
     - '2014-04-28': '6'
@@ -439,10 +452,10 @@ multivoters:
     - '2014-04-21': '6'
     - '2014-05-14': '5'
 multivoterstat:
+  Name: 11
   Molcsa: 44
-  Name: 8
-  Bensze: 9
   Bervi: 3
+  Bensze: 9
   Gweli: 5
   Tommy: 5
   Rheya: 6
