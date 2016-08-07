@@ -33,43 +33,43 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   9:
-    title: The Artist
-    avg_vote: '9.00'
-    votes: '3'
-  10:
     title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
     votes: '7'
+  10:
+    title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
   11:
     title: The Return
     avg_vote: '9.00'
     votes: '3'
   12:
-    title: Spotlight
+    title: The Artist
     avg_vote: '9.00'
     votes: '3'
   13:
-    title: Network
-    avg_vote: '9.00'
-    votes: '3'
-  14:
     title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
-  15:
-    title: Witness for the Prosecution
+  14:
+    title: Spotlight
     avg_vote: '9.00'
     votes: '3'
-  16:
+  15:
     title: Stay
     avg_vote: '9.00'
     votes: '6'
+  16:
+    title: Network
+    avg_vote: '9.00'
+    votes: '3'
   17:
-    title: Aliens
+    title: The Man from Earth
     avg_vote: '8.88'
     votes: '8'
   18:
-    title: The Man from Earth
+    title: Aliens
     avg_vote: '8.88'
     votes: '8'
   19:
@@ -77,11 +77,11 @@ top25:
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Inherit the Wind
+    title: Life of Brian
     avg_vote: '8.75'
     votes: '4'
   21:
-    title: The Good, the Bad and the Ugly
+    title: Inherit the Wind
     avg_vote: '8.75'
     votes: '4'
   22:
@@ -89,13 +89,13 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   23:
+    title: The Good, the Bad and the Ugly
+    avg_vote: '8.75'
+    votes: '4'
+  24:
     title: Interstellar
     avg_vote: '8.75'
     votes: '8'
-  24:
-    title: Pulp Fiction
-    avg_vote: '8.71'
-    votes: '7'
   25:
     title: Monty Python and the Holy Grail
     avg_vote: '8.71'
