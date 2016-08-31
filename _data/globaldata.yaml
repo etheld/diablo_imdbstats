@@ -41,35 +41,35 @@ top25:
     avg_vote: '9.00'
     votes: '7'
   11:
-    title: The Artist
-    avg_vote: '9.00'
-    votes: '3'
-  12:
     title: The Return
     avg_vote: '9.00'
     votes: '3'
-  13:
+  12:
     title: Stay
     avg_vote: '9.00'
     votes: '6'
+  13:
+    title: Spotlight
+    avg_vote: '9.00'
+    votes: '3'
   14:
     title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   15:
-    title: Network
+    title: The Artist
     avg_vote: '9.00'
     votes: '3'
   16:
-    title: Spotlight
+    title: Network
     avg_vote: '9.00'
     votes: '3'
   17:
-    title: The Man from Earth
+    title: Aliens
     avg_vote: '8.88'
     votes: '8'
   18:
-    title: Aliens
+    title: The Man from Earth
     avg_vote: '8.88'
     votes: '8'
   19:
@@ -85,11 +85,11 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   22:
-    title: One Flew Over the Cuckoo's Nest
+    title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
   23:
-    title: The Good, the Bad and the Ugly
+    title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
     votes: '4'
   24:
