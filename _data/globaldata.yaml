@@ -33,19 +33,19 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   9:
-    title: Witness for the Prosecution
+    title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
   10:
-    title: The Artist
-    avg_vote: '9.00'
-    votes: '3'
-  11:
     title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
     votes: '7'
-  12:
+  11:
     title: The Return
+    avg_vote: '9.00'
+    votes: '3'
+  12:
+    title: Spotlight
     avg_vote: '9.00'
     votes: '3'
   13:
@@ -53,11 +53,11 @@ top25:
     avg_vote: '9.00'
     votes: '6'
   14:
-    title: Spotlight
+    title: The Artist
     avg_vote: '9.00'
     votes: '3'
   15:
-    title: It's a Wonderful Life
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   16:
@@ -106,11 +106,6 @@ multivoters:
     - '2016-06-03': '5'
     - '2016-06-19': '4'
     - '2016-07-10': '3'
-  Stay:
-    Molcsa:
-    - '2012-09-15': '9'
-    - '2014-11-16': '10'
-    - '2015-06-01': '9'
   The Iron Giant:
     Name:
     - '2014-12-01': '5'
@@ -121,6 +116,11 @@ multivoters:
     - '2013-10-27': '9'
     - '2014-04-22': '10'
     - '2014-11-10': '9'
+  Stay:
+    Molcsa:
+    - '2012-09-15': '9'
+    - '2014-11-16': '10'
+    - '2015-06-01': '9'
   It Follows:
     Bervi:
     - '2015-07-12': '7'
@@ -137,6 +137,10 @@ multivoters:
     Bensze:
     - '2014-03-03': '6'
     - '2015-02-20': '5'
+  The Way Way Back:
+    Name:
+    - '2015-07-19': '9'
+    - '2016-09-05': '8'
   Se7en:
     Bensze:
     - '2014-02-25': '6'
@@ -259,6 +263,10 @@ multivoters:
     Molcsa:
     - '2013-10-27': '6'
     - '2015-06-28': '8'
+  'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb':
+    Name:
+    - '2015-01-11': '9'
+    - '2016-09-05': '7'
   The Avengers:
     Molcsa:
     - '2013-10-27': '7'
@@ -463,7 +471,7 @@ multivoters:
     - '2014-04-21': '6'
     - '2014-05-14': '5'
 multivoterstat:
-  Name: 14
+  Name: 16
   Molcsa: 44
   Bervi: 3
   Bensze: 9
