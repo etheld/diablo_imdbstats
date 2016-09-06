@@ -25,7 +25,6 @@ whitelist: []
 gems:      [jekyll-paginate, jekyll-watch]
 
 # Conversion
-markdown:    redcarpet
 redcarpet:
   extensions: ["smart", "no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
