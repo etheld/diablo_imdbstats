@@ -1,13 +1,13 @@
 ---
 top25:
   1:
-    title: Rush
-    avg_vote: '9.33'
-    votes: '3'
-  2:
     title: The Intouchables
     avg_vote: '9.33'
     votes: '6'
+  2:
+    title: Rush
+    avg_vote: '9.33'
+    votes: '3'
   3:
     title: The Matrix
     avg_vote: '9.30'
@@ -41,29 +41,29 @@ top25:
     avg_vote: '9.00'
     votes: '7'
   11:
-    title: Stay
+    title: Spotlight
     avg_vote: '9.00'
-    votes: '6'
+    votes: '3'
   12:
     title: Network
     avg_vote: '9.00'
     votes: '3'
   13:
-    title: Spotlight
-    avg_vote: '9.00'
-    votes: '3'
-  14:
-    title: Witness for the Prosecution
-    avg_vote: '9.00'
-    votes: '3'
-  15:
-    title: It's a Wonderful Life
-    avg_vote: '9.00'
-    votes: '3'
-  16:
     title: The Return
     avg_vote: '9.00'
     votes: '3'
+  14:
+    title: It's a Wonderful Life
+    avg_vote: '9.00'
+    votes: '3'
+  15:
+    title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
+  16:
+    title: Stay
+    avg_vote: '9.00'
+    votes: '6'
   17:
     title: Aliens
     avg_vote: '8.88'
@@ -73,11 +73,11 @@ top25:
     avg_vote: '8.88'
     votes: '8'
   19:
-    title: Good Will Hunting
+    title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Gattaca
+    title: Good Will Hunting
     avg_vote: '8.83'
     votes: '6'
   21:
@@ -85,11 +85,11 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   22:
-    title: One Flew Over the Cuckoo's Nest
+    title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
   23:
-    title: The Good, the Bad and the Ugly
+    title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
     votes: '4'
   24:
