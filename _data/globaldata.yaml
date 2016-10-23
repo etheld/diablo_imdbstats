@@ -1,49 +1,49 @@
 ---
 top25:
   1:
-    title: Rush
-    avg_vote: '9.33'
-    votes: '3'
-  2:
     title: The Intouchables
     avg_vote: '9.33'
     votes: '6'
+  2:
+    title: Rush
+    avg_vote: '9.33'
+    votes: '3'
   3:
     title: The Matrix
     avg_vote: '9.30'
     votes: '10'
   4:
-    title: Kung Fury
-    avg_vote: '9.20'
-    votes: '5'
-  5:
     title: The Prestige
     avg_vote: '9.20'
     votes: '10'
-  6:
+  5:
     title: 12 Angry Men
     avg_vote: '9.17'
     votes: '6'
-  7:
+  6:
     title: The Hunt
     avg_vote: '9.14'
     votes: '7'
-  8:
+  7:
     title: The Shawshank Redemption
     avg_vote: '9.11'
     votes: '9'
-  9:
+  8:
     title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
-  10:
-    title: Lock, Stock and Two Smoking Barrels
-    avg_vote: '9.00'
-    votes: '7'
-  11:
+  9:
     title: The Return
     avg_vote: '9.00'
     votes: '3'
+  10:
+    title: Kung Fury
+    avg_vote: '9.00'
+    votes: '6'
+  11:
+    title: Lock, Stock and Two Smoking Barrels
+    avg_vote: '9.00'
+    votes: '7'
   12:
     title: Stay
     avg_vote: '9.00'
