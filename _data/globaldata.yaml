@@ -1,13 +1,13 @@
 ---
 top25:
   1:
-    title: The Intouchables
-    avg_vote: '9.33'
-    votes: '6'
-  2:
     title: Rush
     avg_vote: '9.33'
     votes: '3'
+  2:
+    title: The Intouchables
+    avg_vote: '9.33'
+    votes: '6'
   3:
     title: The Matrix
     avg_vote: '9.30'
@@ -29,23 +29,23 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
-    title: Witness for the Prosecution
-    avg_vote: '9.00'
-    votes: '3'
-  9:
     title: The Return
     avg_vote: '9.00'
     votes: '3'
-  10:
-    title: Kung Fury
-    avg_vote: '9.00'
-    votes: '6'
-  11:
+  9:
     title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
     votes: '7'
-  12:
+  10:
+    title: It's a Wonderful Life
+    avg_vote: '9.00'
+    votes: '3'
+  11:
     title: Stay
+    avg_vote: '9.00'
+    votes: '6'
+  12:
+    title: Kung Fury
     avg_vote: '9.00'
     votes: '6'
   13:
@@ -53,11 +53,11 @@ top25:
     avg_vote: '9.00'
     votes: '3'
   14:
-    title: It's a Wonderful Life
+    title: Network
     avg_vote: '9.00'
     votes: '3'
   15:
-    title: Network
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   16:
@@ -81,23 +81,23 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   21:
-    title: The Good, the Bad and the Ugly
-    avg_vote: '8.75'
-    votes: '4'
-  22:
     title: Inherit the Wind
     avg_vote: '8.75'
     votes: '4'
-  23:
-    title: Spotlight
+  22:
+    title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
-  24:
+  23:
     title: Interstellar
     avg_vote: '8.75'
     votes: '8'
-  25:
+  24:
     title: One Flew Over the Cuckoo's Nest
+    avg_vote: '8.75'
+    votes: '4'
+  25:
+    title: Spotlight
     avg_vote: '8.75'
     votes: '4'
 multivoters:
@@ -149,6 +149,10 @@ multivoters:
     Molcsa:
     - '2013-10-27': '8'
     - '2013-11-09': '7'
+  'The Lord of the Rings: The Fellowship of the Ring':
+    Rheya:
+    - '2011-07-04': '7'
+    - '2016-10-26': '9'
   Bad Boys:
     Molcsa:
     - '2013-11-07': '6'
@@ -483,8 +487,8 @@ multivoterstat:
   Molcsa: 45
   Bervi: 3
   Bensze: 9
+  Rheya: 8
   Gweli: 5
-  Rheya: 7
   Tommy: 5
   Warc: 3
   Shank: 1
