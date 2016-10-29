@@ -1,13 +1,13 @@
 ---
 top25:
   1:
-    title: The Intouchables
-    avg_vote: '9.33'
-    votes: '6'
-  2:
     title: Rush
     avg_vote: '9.33'
     votes: '3'
+  2:
+    title: The Intouchables
+    avg_vote: '9.33'
+    votes: '6'
   3:
     title: The Matrix
     avg_vote: '9.30'
@@ -37,7 +37,7 @@ top25:
     avg_vote: '9.00'
     votes: '7'
   10:
-    title: The Artist
+    title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
   11:
@@ -45,21 +45,21 @@ top25:
     avg_vote: '9.00'
     votes: '6'
   12:
-    title: It's a Wonderful Life
-    avg_vote: '9.00'
-    votes: '3'
-  13:
-    title: Network
-    avg_vote: '9.00'
-    votes: '3'
-  14:
-    title: Witness for the Prosecution
-    avg_vote: '9.00'
-    votes: '3'
-  15:
     title: Kung Fury
     avg_vote: '9.00'
     votes: '6'
+  13:
+    title: The Artist
+    avg_vote: '9.00'
+    votes: '3'
+  14:
+    title: Network
+    avg_vote: '9.00'
+    votes: '3'
+  15:
+    title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
   16:
     title: Aliens
     avg_vote: '8.88'
@@ -81,23 +81,23 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   21:
-    title: One Flew Over the Cuckoo's Nest
+    title: Inherit the Wind
     avg_vote: '8.75'
     votes: '4'
   22:
-    title: Spotlight
-    avg_vote: '8.75'
-    votes: '4'
-  23:
     title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
-  24:
+  23:
     title: Interstellar
     avg_vote: '8.75'
     votes: '8'
+  24:
+    title: One Flew Over the Cuckoo's Nest
+    avg_vote: '8.75'
+    votes: '4'
   25:
-    title: Inherit the Wind
+    title: Spotlight
     avg_vote: '8.75'
     votes: '4'
 multivoters:
@@ -169,6 +169,10 @@ multivoters:
     Molcsa:
     - '2014-01-16': '6'
     - '2014-03-10': '6'
+  Sicario:
+    Molcsa:
+    - '2016-10-02': '9'
+    - '2016-10-28': '9'
   The Green Butchers:
     Molcsa:
     - '2015-01-27': '8'
@@ -484,7 +488,7 @@ multivoters:
     - '2014-05-14': '5'
 multivoterstat:
   Name: 16
-  Molcsa: 45
+  Molcsa: 46
   Bervi: 3
   Bensze: 9
   Rheya: 8
