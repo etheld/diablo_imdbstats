@@ -129,6 +129,10 @@ multivoters:
     Molcsa:
     - '2012-10-11': '10'
     - '2015-06-03': '9'
+  Independence Day:
+    Rheya:
+    - '2012-06-04': '6'
+    - '2016-11-14': '8'
   The Man from Earth:
     Bervi:
     - '2011-09-29': '8'
@@ -494,8 +498,8 @@ multivoterstat:
   Name: 17
   Molcsa: 46
   Bervi: 3
+  Rheya: 9
   Bensze: 9
-  Rheya: 8
   Gweli: 5
   Tommy: 5
   Warc: 3
