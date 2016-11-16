@@ -106,11 +106,6 @@ multivoters:
     - '2016-06-03': '5'
     - '2016-06-19': '4'
     - '2016-07-10': '3'
-  Batman Begins:
-    Molcsa:
-    - '2013-10-27': '9'
-    - '2014-04-22': '10'
-    - '2014-11-10': '9'
   Stay:
     Molcsa:
     - '2012-09-15': '9'
@@ -121,6 +116,11 @@ multivoters:
     - '2014-12-01': '5'
     - '2016-05-14': '4'
     - '2016-06-03': '5'
+  Batman Begins:
+    Molcsa:
+    - '2013-10-27': '9'
+    - '2014-04-22': '10'
+    - '2014-11-10': '9'
   It Follows:
     Bervi:
     - '2015-07-12': '7'
@@ -129,6 +129,10 @@ multivoters:
     Molcsa:
     - '2012-10-11': '10'
     - '2015-06-03': '9'
+  'The Lord of the Rings: The Return of the King':
+    Rheya:
+    - '2011-09-25': '7'
+    - '2016-11-15': '9'
   Independence Day:
     Rheya:
     - '2012-06-04': '6'
@@ -330,6 +334,10 @@ multivoters:
     Name:
     - '2016-07-10': '4'
     - '2016-07-10': '3'
+  'The Lord of the Rings: The Two Towers':
+    Rheya:
+    - '2011-07-04': '7'
+    - '2016-11-15': '9'
   The Cabin in the Woods:
     Name:
     - '2014-12-01': '7'
@@ -498,7 +506,7 @@ multivoterstat:
   Name: 17
   Molcsa: 46
   Bervi: 3
-  Rheya: 9
+  Rheya: 11
   Bensze: 9
   Gweli: 5
   Tommy: 5
