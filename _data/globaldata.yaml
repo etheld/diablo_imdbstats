@@ -212,6 +212,10 @@ multivoters:
     Molcsa:
     - '2015-06-02': '10'
     - '2015-06-03': '9'
+  The Purge:
+    Rheya:
+    - '2014-01-05': '4'
+    - '2016-12-11': '7'
   The Human Centipede II (Full Sequence):
     Bervi:
     - '2013-01-05': '6'
@@ -506,7 +510,7 @@ multivoterstat:
   Name: 17
   Molcsa: 46
   Bervi: 3
-  Rheya: 11
+  Rheya: 12
   Bensze: 9
   Gweli: 5
   Tommy: 5
