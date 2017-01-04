@@ -1,15 +1,15 @@
 ---
 top25:
   1:
+    title: Rush
+    avg_vote: '9.33'
+    votes: '3'
+  2:
     title: The Intouchables
     avg_vote: '9.33'
     votes: '6'
-  2:
-    title: 'Cosmos: A Space-Time Odyssey'
-    avg_vote: '9.33'
-    votes: '3'
   3:
-    title: Rush
+    title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
   4:
@@ -45,23 +45,23 @@ top25:
     avg_vote: '9.00'
     votes: '3'
   12:
-    title: Witness for the Prosecution
-    avg_vote: '9.00'
-    votes: '3'
-  13:
     title: Stay
     avg_vote: '9.00'
     votes: '6'
-  14:
+  13:
     title: Kung Fury
     avg_vote: '9.00'
     votes: '6'
+  14:
+    title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
   15:
-    title: It's a Wonderful Life
+    title: The Return
     avg_vote: '9.00'
     votes: '3'
   16:
-    title: The Return
+    title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
   17:
@@ -93,11 +93,11 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   24:
-    title: The Good, the Bad and the Ugly
+    title: Spotlight
     avg_vote: '8.75'
     votes: '4'
   25:
-    title: Spotlight
+    title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
 multivoters:
