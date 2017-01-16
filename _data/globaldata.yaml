@@ -5,17 +5,17 @@ top25:
     avg_vote: '9.33'
     votes: '3'
   2:
-    title: The Intouchables
-    avg_vote: '9.33'
-    votes: '6'
-  3:
     title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
-  4:
+  3:
     title: The Matrix
     avg_vote: '9.30'
     votes: '10'
+  4:
+    title: The Intouchables
+    avg_vote: '9.29'
+    votes: '7'
   5:
     title: The Prestige
     avg_vote: '9.20'
