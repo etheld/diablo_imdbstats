@@ -1,11 +1,11 @@
 ---
 top25:
   1:
-    title: Rush
+    title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
   2:
-    title: 'Cosmos: A Space-Time Odyssey'
+    title: Rush
     avg_vote: '9.33'
     votes: '3'
   3:
@@ -37,33 +37,33 @@ top25:
     avg_vote: '9.00'
     votes: '7'
   10:
-    title: It's a Wonderful Life
+    title: The Return
     avg_vote: '9.00'
     votes: '3'
   11:
+    title: It's a Wonderful Life
+    avg_vote: '9.00'
+    votes: '3'
+  12:
     title: Kung Fury
     avg_vote: '9.00'
     votes: '6'
-  12:
-    title: Stay
-    avg_vote: '9.00'
-    votes: '6'
   13:
-    title: Witness for the Prosecution
+    title: The Hunt
     avg_vote: '9.00'
-    votes: '3'
+    votes: '8'
   14:
     title: The Artist
     avg_vote: '9.00'
     votes: '3'
   15:
-    title: The Return
+    title: Stay
+    avg_vote: '9.00'
+    votes: '6'
+  16:
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
-  16:
-    title: The Hunt
-    avg_vote: '9.00'
-    votes: '8'
   17:
     title: The Man from Earth
     avg_vote: '8.88'
