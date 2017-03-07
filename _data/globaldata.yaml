@@ -1,11 +1,11 @@
 ---
 top25:
   1:
-    title: 'Cosmos: A Space-Time Odyssey'
+    title: Rush
     avg_vote: '9.33'
     votes: '3'
   2:
-    title: Rush
+    title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
   3:
@@ -29,41 +29,41 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
-    title: Network
+    title: Kung Fury
     avg_vote: '9.00'
-    votes: '3'
+    votes: '6'
   9:
-    title: The Hunt
-    avg_vote: '9.00'
-    votes: '8'
-  10:
     title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
     votes: '7'
+  10:
+    title: Stay
+    avg_vote: '9.00'
+    votes: '6'
   11:
     title: The Return
     avg_vote: '9.00'
     votes: '3'
   12:
-    title: Stay
+    title: Witness for the Prosecution
     avg_vote: '9.00'
-    votes: '6'
+    votes: '3'
   13:
-    title: Kung Fury
+    title: It's a Wonderful Life
     avg_vote: '9.00'
-    votes: '6'
+    votes: '3'
   14:
     title: The Artist
     avg_vote: '9.00'
     votes: '3'
   15:
-    title: Witness for the Prosecution
+    title: Network
     avg_vote: '9.00'
     votes: '3'
   16:
-    title: It's a Wonderful Life
+    title: The Hunt
     avg_vote: '9.00'
-    votes: '3'
+    votes: '8'
   17:
     title: The Man from Earth
     avg_vote: '8.88'
@@ -73,11 +73,11 @@ top25:
     avg_vote: '8.88'
     votes: '8'
   19:
-    title: Gattaca
+    title: Good Will Hunting
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Good Will Hunting
+    title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   21:
