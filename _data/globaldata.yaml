@@ -101,11 +101,6 @@ top25:
     avg_vote: '8.75'
     votes: '8'
 multivoters:
-  Dirty Grandpa:
-    Name:
-    - '2016-06-03': '5'
-    - '2016-06-19': '4'
-    - '2016-07-10': '3'
   Stay:
     Molcsa:
     - '2012-09-15': '9'
@@ -121,6 +116,11 @@ multivoters:
     - '2013-10-27': '9'
     - '2014-04-22': '10'
     - '2014-11-10': '9'
+  Dirty Grandpa:
+    Name:
+    - '2016-06-03': '5'
+    - '2016-06-19': '4'
+    - '2016-07-10': '3'
   It Follows:
     Bervi:
     - '2015-07-12': '7'
@@ -442,6 +442,10 @@ multivoters:
     Molcsa:
     - '2014-04-28': '6'
     - '2014-11-13': '5'
+  The Accountant:
+    Name:
+    - '2017-05-01': '9'
+    - '2017-05-12': '8'
   Fight Club:
     Name:
     - '2014-12-01': '9'
@@ -511,8 +515,8 @@ multivoters:
     - '2014-04-21': '6'
     - '2014-05-14': '5'
 multivoterstat:
-  Name: 18
   Molcsa: 46
+  Name: 19
   Bervi: 3
   Rheya: 12
   Bensze: 9
