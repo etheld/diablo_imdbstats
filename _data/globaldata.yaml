@@ -29,41 +29,41 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
-    title: The Artist
-    avg_vote: '9.00'
-    votes: '3'
-  9:
-    title: The Hunt
-    avg_vote: '9.00'
-    votes: '8'
-  10:
-    title: Kung Fury
-    avg_vote: '9.00'
-    votes: '6'
-  11:
-    title: The Return
-    avg_vote: '9.00'
-    votes: '3'
-  12:
-    title: Witness for the Prosecution
-    avg_vote: '9.00'
-    votes: '3'
-  13:
     title: Network
     avg_vote: '9.00'
     votes: '3'
-  14:
-    title: It's a Wonderful Life
-    avg_vote: '9.00'
-    votes: '3'
-  15:
+  9:
     title: Stay
     avg_vote: '9.00'
     votes: '6'
-  16:
+  10:
+    title: The Return
+    avg_vote: '9.00'
+    votes: '3'
+  11:
     title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
     votes: '7'
+  12:
+    title: The Hunt
+    avg_vote: '9.00'
+    votes: '8'
+  13:
+    title: It's a Wonderful Life
+    avg_vote: '9.00'
+    votes: '3'
+  14:
+    title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
+  15:
+    title: Kung Fury
+    avg_vote: '9.00'
+    votes: '6'
+  16:
+    title: The Artist
+    avg_vote: '9.00'
+    votes: '3'
   17:
     title: Aliens
     avg_vote: '8.88'
@@ -73,11 +73,11 @@ top25:
     avg_vote: '8.88'
     votes: '8'
   19:
-    title: Gattaca
+    title: Good Will Hunting
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Good Will Hunting
+    title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   21:
@@ -89,11 +89,11 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   23:
-    title: The Good, the Bad and the Ugly
+    title: Life of Brian
     avg_vote: '8.75'
     votes: '4'
   24:
-    title: Life of Brian
+    title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
     votes: '4'
   25:
