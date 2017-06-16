@@ -1,11 +1,11 @@
 ---
 top25:
   1:
-    title: Rush
+    title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
   2:
-    title: 'Cosmos: A Space-Time Odyssey'
+    title: Rush
     avg_vote: '9.33'
     votes: '3'
   3:
@@ -29,7 +29,7 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
-    title: The Artist
+    title: Network
     avg_vote: '9.00'
     votes: '3'
   9:
@@ -41,43 +41,43 @@ top25:
     avg_vote: '9.00'
     votes: '3'
   11:
-    title: Witness for the Prosecution
+    title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
-    votes: '3'
+    votes: '7'
   12:
     title: The Hunt
     avg_vote: '9.00'
     votes: '8'
   13:
-    title: Network
-    avg_vote: '9.00'
-    votes: '3'
-  14:
     title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
-  15:
-    title: Lock, Stock and Two Smoking Barrels
+  14:
+    title: Witness for the Prosecution
     avg_vote: '9.00'
-    votes: '7'
-  16:
+    votes: '3'
+  15:
     title: Kung Fury
     avg_vote: '9.00'
     votes: '6'
+  16:
+    title: The Artist
+    avg_vote: '9.00'
+    votes: '3'
   17:
-    title: The Man from Earth
-    avg_vote: '8.88'
-    votes: '8'
-  18:
     title: Aliens
     avg_vote: '8.88'
     votes: '8'
+  18:
+    title: The Man from Earth
+    avg_vote: '8.88'
+    votes: '8'
   19:
-    title: Gattaca
+    title: Good Will Hunting
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Good Will Hunting
+    title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   21:
@@ -89,7 +89,7 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   23:
-    title: The Good, the Bad and the Ugly
+    title: Life of Brian
     avg_vote: '8.75'
     votes: '4'
   24:
@@ -101,6 +101,11 @@ top25:
     avg_vote: '8.75'
     votes: '8'
 multivoters:
+  Dirty Grandpa:
+    Name:
+    - '2016-06-03': '5'
+    - '2016-06-19': '4'
+    - '2016-07-10': '3'
   The Iron Giant:
     Name:
     - '2014-12-01': '5'
@@ -111,11 +116,6 @@ multivoters:
     - '2013-10-27': '9'
     - '2014-04-22': '10'
     - '2014-11-10': '9'
-  Dirty Grandpa:
-    Name:
-    - '2016-06-03': '5'
-    - '2016-06-19': '4'
-    - '2016-07-10': '3'
   Stay:
     Molcsa:
     - '2012-09-15': '9'
@@ -256,6 +256,10 @@ multivoters:
     Gweli:
     - '2010-10-26': '10'
     - '2015-12-28': '10'
+  The Milky Way:
+    Rheya:
+    - '2012-07-05': '7'
+    - '2017-06-16': '10'
   In the Heart of the Sea:
     Warc:
     - '2015-12-25': '8'
@@ -350,6 +354,10 @@ multivoters:
     Name:
     - '2014-12-01': '7'
     - '2016-08-06': '8'
+  That Obscure Object of Desire:
+    Rheya:
+    - '2012-08-26': '7'
+    - '2017-06-16': '8'
   Vacation:
     Name:
     - '2016-06-12': '6'
@@ -438,6 +446,10 @@ multivoters:
     Molcsa:
     - '2013-10-27': '8'
     - '2015-08-14': '9'
+  The Phantom of Liberty:
+    Rheya:
+    - '2012-08-21': '8'
+    - '2017-06-16': '10'
   Jurassic Park III:
     Molcsa:
     - '2014-04-28': '6'
@@ -478,6 +490,10 @@ multivoters:
     Molcsa:
     - '2013-11-18': '7'
     - '2015-06-03': '8'
+  The Discreet Charm of the Bourgeoisie:
+    Rheya:
+    - '2012-08-19': '8'
+    - '2017-06-16': '10'
   My Bloody Valentine:
     Rheya:
     - '2011-07-12': '4'
@@ -522,7 +538,7 @@ multivoterstat:
   Name: 19
   Molcsa: 46
   Bervi: 3
-  Rheya: 13
+  Rheya: 17
   Bensze: 9
   Gweli: 5
   Tommy: 5
