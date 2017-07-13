@@ -29,27 +29,27 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
+    title: Kung Fury
+    avg_vote: '9.00'
+    votes: '6'
+  9:
     title: The Artist
     avg_vote: '9.00'
     votes: '3'
-  9:
-    title: The Hunt
-    avg_vote: '9.00'
-    votes: '8'
   10:
     title: Stay
     avg_vote: '9.00'
     votes: '6'
   11:
-    title: Witness for the Prosecution
+    title: The Return
     avg_vote: '9.00'
     votes: '3'
   12:
-    title: Kung Fury
+    title: The Hunt
     avg_vote: '9.00'
-    votes: '6'
+    votes: '8'
   13:
-    title: The Return
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   14:
@@ -73,11 +73,11 @@ top25:
     avg_vote: '8.88'
     votes: '8'
   19:
-    title: Gattaca
+    title: Good Will Hunting
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Good Will Hunting
+    title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   21:
@@ -89,17 +89,17 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   23:
-    title: The Good, the Bad and the Ugly
-    avg_vote: '8.75'
-    votes: '4'
-  24:
     title: Life of Brian
     avg_vote: '8.75'
     votes: '4'
-  25:
+  24:
     title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
     votes: '4'
+  25:
+    title: Interstellar
+    avg_vote: '8.75'
+    votes: '8'
 multivoters:
   Dirty Grandpa:
     Name:
