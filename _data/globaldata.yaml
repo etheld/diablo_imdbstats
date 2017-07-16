@@ -29,25 +29,25 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
-    title: Kung Fury
-    avg_vote: '9.00'
-    votes: '6'
-  9:
     title: The Artist
     avg_vote: '9.00'
     votes: '3'
-  10:
+  9:
     title: Stay
     avg_vote: '9.00'
     votes: '6'
+  10:
+    title: Kung Fury
+    avg_vote: '9.00'
+    votes: '6'
   11:
+    title: Lock, Stock and Two Smoking Barrels
+    avg_vote: '9.00'
+    votes: '7'
+  12:
     title: The Return
     avg_vote: '9.00'
     votes: '3'
-  12:
-    title: The Hunt
-    avg_vote: '9.00'
-    votes: '8'
   13:
     title: Witness for the Prosecution
     avg_vote: '9.00'
@@ -61,23 +61,23 @@ top25:
     avg_vote: '9.00'
     votes: '3'
   16:
-    title: Lock, Stock and Two Smoking Barrels
+    title: The Hunt
     avg_vote: '9.00'
-    votes: '7'
-  17:
-    title: Aliens
-    avg_vote: '8.88'
     votes: '8'
-  18:
+  17:
     title: The Man from Earth
     avg_vote: '8.88'
     votes: '8'
+  18:
+    title: Aliens
+    avg_vote: '8.88'
+    votes: '8'
   19:
-    title: Good Will Hunting
+    title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Gattaca
+    title: Good Will Hunting
     avg_vote: '8.83'
     votes: '6'
   21:
@@ -85,21 +85,21 @@ top25:
     avg_vote: '8.80'
     votes: '5'
   22:
-    title: Inherit the Wind
-    avg_vote: '8.75'
-    votes: '4'
-  23:
     title: Life of Brian
     avg_vote: '8.75'
     votes: '4'
+  23:
+    title: Inherit the Wind
+    avg_vote: '8.75'
+    votes: '4'
   24:
-    title: One Flew Over the Cuckoo's Nest
+    title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
   25:
-    title: Interstellar
+    title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
-    votes: '8'
+    votes: '4'
 multivoters:
   Dirty Grandpa:
     Name:
