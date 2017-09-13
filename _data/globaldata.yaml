@@ -1,11 +1,11 @@
 ---
 top25:
   1:
-    title: Rush
+    title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
   2:
-    title: 'Cosmos: A Space-Time Odyssey'
+    title: Rush
     avg_vote: '9.33'
     votes: '3'
   3:
@@ -29,11 +29,11 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
-    title: Kung Fury
+    title: The Hunt
     avg_vote: '9.00'
-    votes: '6'
+    votes: '8'
   9:
-    title: The Artist
+    title: Network
     avg_vote: '9.00'
     votes: '3'
   10:
@@ -41,25 +41,25 @@ top25:
     avg_vote: '9.00'
     votes: '6'
   11:
-    title: The Return
-    avg_vote: '9.00'
-    votes: '3'
-  12:
     title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
     votes: '7'
+  12:
+    title: The Return
+    avg_vote: '9.00'
+    votes: '3'
   13:
-    title: Witness for the Prosecution
+    title: The Artist
     avg_vote: '9.00'
     votes: '3'
   14:
-    title: Network
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   15:
-    title: The Hunt
+    title: Kung Fury
     avg_vote: '9.00'
-    votes: '8'
+    votes: '6'
   16:
     title: It's a Wonderful Life
     avg_vote: '9.00'
@@ -73,11 +73,11 @@ top25:
     avg_vote: '8.88'
     votes: '8'
   19:
-    title: Good Will Hunting
+    title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Gattaca
+    title: Good Will Hunting
     avg_vote: '8.83'
     votes: '6'
   21:
@@ -85,32 +85,27 @@ top25:
     avg_vote: '8.80'
     votes: '5'
   22:
-    title: Inherit the Wind
-    avg_vote: '8.75'
-    votes: '4'
-  23:
-    title: Life of Brian
-    avg_vote: '8.75'
-    votes: '4'
-  24:
-    title: One Flew Over the Cuckoo's Nest
-    avg_vote: '8.75'
-    votes: '4'
-  25:
     title: Interstellar
     avg_vote: '8.75'
     votes: '8'
+  23:
+    title: Inherit the Wind
+    avg_vote: '8.75'
+    votes: '4'
+  24:
+    title: The Good, the Bad and the Ugly
+    avg_vote: '8.75'
+    votes: '4'
+  25:
+    title: One Flew Over the Cuckoo's Nest
+    avg_vote: '8.75'
+    votes: '4'
 multivoters:
   Dirty Grandpa:
     Name:
     - '2016-06-03': '5'
     - '2016-06-19': '4'
     - '2016-07-10': '3'
-  The Iron Giant:
-    Name:
-    - '2014-12-01': '5'
-    - '2016-05-14': '4'
-    - '2016-06-03': '5'
   Batman Begins:
     Molcsa:
     - '2013-10-27': '9'
@@ -121,6 +116,11 @@ multivoters:
     - '2012-09-15': '9'
     - '2014-11-16': '10'
     - '2015-06-01': '9'
+  The Iron Giant:
+    Name:
+    - '2014-12-01': '5'
+    - '2016-05-14': '4'
+    - '2016-06-03': '5'
   It Follows:
     Bervi:
     - '2015-07-12': '7'
@@ -422,6 +422,10 @@ multivoters:
     Rheya:
     - '2011-08-16': '7'
     - '2014-10-23': '9'
+  Guardians of the Galaxy:
+    Name:
+    - '2014-11-27': '5'
+    - '2017-09-04': '6'
   Fury:
     Warc:
     - '2014-12-01': '6'
@@ -535,7 +539,7 @@ multivoters:
     - '2014-04-21': '6'
     - '2014-05-14': '5'
 multivoterstat:
-  Name: 19
+  Name: 20
   Molcsa: 46
   Bervi: 3
   Rheya: 17
