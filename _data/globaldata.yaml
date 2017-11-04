@@ -49,11 +49,11 @@ top25:
     avg_vote: '9.00'
     votes: '3'
   13:
-    title: Witness for the Prosecution
+    title: The Artist
     avg_vote: '9.00'
     votes: '3'
   14:
-    title: The Artist
+    title: Witness for the Prosecution
     avg_vote: '9.00'
     votes: '3'
   15:
@@ -121,6 +121,13 @@ multivoters:
     - '2012-09-15': '9'
     - '2014-11-16': '10'
     - '2015-06-01': '9'
+  The Avengers:
+    Bensze:
+    - '2014-02-25': '9'
+    - '2014-02-27': '8'
+    Molcsa:
+    - '2013-10-27': '7'
+    - '2016-04-11': '6'
   It Follows:
     Bervi:
     - '2015-07-12': '7'
@@ -303,13 +310,6 @@ multivoters:
     Name:
     - '2015-01-11': '9'
     - '2016-09-05': '7'
-  The Avengers:
-    Molcsa:
-    - '2013-10-27': '7'
-    - '2016-04-11': '6'
-    Bensze:
-    - '2014-02-25': '9'
-    - '2014-02-27': '8'
   Gods of Egypt:
     Name:
     - '2016-05-21': '4'
@@ -518,14 +518,18 @@ multivoters:
     Molcsa:
     - '2012-09-15': '10'
     - '2014-01-16': '9'
-  The Walking Dead:
-    Molcsa:
-    - '2013-10-30': '8'
-    - '2016-03-23': '9'
+  Flatliners:
+    Bervi:
+    - '2017-10-15': '6'
+    - '2017-11-03': '6'
   The Majestic:
     Molcsa:
     - '2013-10-27': '9'
     - '2013-11-22': '8'
+  The Walking Dead:
+    Molcsa:
+    - '2013-10-30': '8'
+    - '2016-03-23': '9'
   Man of Steel:
     Molcsa:
     - '2013-11-28': '7'
@@ -537,9 +541,9 @@ multivoters:
 multivoterstat:
   Name: 20
   Molcsa: 45
-  Bervi: 3
-  Rheya: 17
   Bensze: 9
+  Bervi: 4
+  Rheya: 17
   Gweli: 5
   Tommy: 5
   Warc: 3
