@@ -1,11 +1,11 @@
 ---
 top25:
   1:
-    title: 'Cosmos: A Space-Time Odyssey'
+    title: Rush
     avg_vote: '9.33'
     votes: '3'
   2:
-    title: Rush
+    title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
   3:
@@ -29,73 +29,73 @@ top25:
     avg_vote: '9.11'
     votes: '9'
   8:
-    title: The Hunt
-    avg_vote: '9.00'
-    votes: '8'
-  9:
-    title: Network
-    avg_vote: '9.00'
-    votes: '3'
-  10:
-    title: Stay
-    avg_vote: '9.00'
-    votes: '6'
-  11:
     title: Lock, Stock and Two Smoking Barrels
     avg_vote: '9.00'
     votes: '7'
-  12:
-    title: The Return
-    avg_vote: '9.00'
-    votes: '3'
-  13:
-    title: Witness for the Prosecution
-    avg_vote: '9.00'
-    votes: '3'
-  14:
-    title: The Artist
-    avg_vote: '9.00'
-    votes: '3'
-  15:
+  9:
     title: Kung Fury
     avg_vote: '9.00'
     votes: '6'
-  16:
+  10:
     title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
-  17:
+  11:
+    title: Network
+    avg_vote: '9.00'
+    votes: '3'
+  12:
+    title: Witness for the Prosecution
+    avg_vote: '9.00'
+    votes: '3'
+  13:
+    title: Blade Runner 2049
+    avg_vote: '9.00'
+    votes: '3'
+  14:
+    title: The Hunt
+    avg_vote: '8.89'
+    votes: '9'
+  15:
+    title: The Man from Earth
+    avg_vote: '8.89'
+    votes: '9'
+  16:
     title: Aliens
     avg_vote: '8.88'
     votes: '8'
+  17:
+    title: Stay
+    avg_vote: '8.86'
+    votes: '7'
   18:
-    title: The Man from Earth
-    avg_vote: '8.88'
-    votes: '8'
+    title: Good Will Hunting
+    avg_vote: '8.83'
+    votes: '6'
   19:
     title: Gattaca
     avg_vote: '8.83'
     votes: '6'
   20:
-    title: Good Will Hunting
-    avg_vote: '8.83'
-    votes: '6'
-  21:
-    title: Spotlight
-    avg_vote: '8.80'
-    votes: '5'
-  22:
-    title: Interstellar
-    avg_vote: '8.75'
-    votes: '8'
-  23:
-    title: Inherit the Wind
-    avg_vote: '8.75'
-    votes: '4'
-  24:
     title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
+  21:
+    title: The Artist
+    avg_vote: '8.75'
+    votes: '4'
+  22:
+    title: Life of Brian
+    avg_vote: '8.75'
+    votes: '4'
+  23:
+    title: The Return
+    avg_vote: '8.75'
+    votes: '4'
+  24:
+    title: Interstellar
+    avg_vote: '8.75'
+    votes: '8'
   25:
     title: One Flew Over the Cuckoo's Nest
     avg_vote: '8.75'
@@ -111,27 +111,34 @@ multivoters:
     - '2014-12-01': '5'
     - '2016-05-14': '4'
     - '2016-06-03': '5'
+  The Milky Way:
+    Rheya:
+    - '2012-07-05': '7'
+    - '2017-06-16': '10'
+    - '2017-11-19': '9'
+  Jacob's Ladder:
+    Rheya:
+    - '2011-07-04': '8'
+    - '2015-02-20': '10'
+    - '2017-11-19': '8'
   Batman Begins:
     Molcsa:
     - '2013-10-27': '9'
     - '2014-04-22': '10'
     - '2014-11-10': '9'
+  This Is England:
+    Rheya:
+    - '2010-10-27': '8'
+    - '2017-06-11': '10'
+    - '2017-11-19': '8'
   Stay:
     Molcsa:
     - '2012-09-15': '9'
     - '2014-11-16': '10'
     - '2015-06-01': '9'
-  The Avengers:
-    Bensze:
-    - '2014-02-25': '9'
-    - '2014-02-27': '8'
-    Molcsa:
-    - '2013-10-27': '7'
-    - '2016-04-11': '6'
-  It Follows:
-    Bervi:
-    - '2015-07-12': '7'
-    - '2015-08-08': '6'
+    Rheya:
+    - '2012-12-10': '10'
+    - '2017-11-19': '8'
   Pulp Fiction:
     Molcsa:
     - '2012-10-11': '10'
@@ -152,6 +159,9 @@ multivoters:
     Bervi:
     - '2011-09-29': '8'
     - '2015-07-12': '7'
+    Rheya:
+    - '2011-07-04': '10'
+    - '2017-11-19': '9'
   Looper:
     Bensze:
     - '2014-03-03': '6'
@@ -160,6 +170,10 @@ multivoters:
     Name:
     - '2015-07-19': '9'
     - '2016-09-05': '8'
+  Ironweed:
+    Rheya:
+    - '2008-03-23': '10'
+    - '2017-11-19': '8'
   Se7en:
     Bensze:
     - '2014-02-25': '6'
@@ -172,6 +186,10 @@ multivoters:
     Rheya:
     - '2011-07-04': '7'
     - '2016-10-26': '9'
+  '1408':
+    Rheya:
+    - '2009-08-10': '9'
+    - '2017-11-19': '7'
   Bad Boys:
     Molcsa:
     - '2013-11-07': '6'
@@ -180,6 +198,13 @@ multivoters:
     Molcsa:
     - '2012-10-11': '7'
     - '2016-01-17': '8'
+    Rheya:
+    - '2012-06-08': '10'
+    - '2017-11-19': '7'
+  Idiocracy:
+    Rheya:
+    - '2014-05-25': '10'
+    - '2017-11-19': '8'
   God Bless America:
     Gweli:
     - '2012-07-11': '7'
@@ -211,6 +236,14 @@ multivoters:
     Bensze:
     - '2014-02-25': '6'
     - '2014-03-14': '4'
+  Her:
+    Rheya:
+    - '2014-10-01': '10'
+    - '2017-11-19': '8'
+  The Hunt:
+    Rheya:
+    - '2013-06-10': '10'
+    - '2017-11-19': '8'
   Scott Pilgrim vs. the World:
     Molcsa:
     - '2014-06-15': '8'
@@ -231,10 +264,26 @@ multivoters:
     Bervi:
     - '2013-01-05': '6'
     - '2015-07-12': '7'
+  Pi:
+    Rheya:
+    - '2009-05-11': '10'
+    - '2017-11-19': '9'
+  'Nymphomaniac: Vol. I':
+    Rheya:
+    - '2014-03-31': '10'
+    - '2017-11-19': '8'
   Zoolander:
     Molcsa:
     - '2014-03-11': '6'
     - '2015-06-03': '7'
+  The Return:
+    Rheya:
+    - '2012-12-02': '10'
+    - '2017-11-19': '8'
+  Spotlight:
+    Rheya:
+    - '2016-07-22': '10'
+    - '2017-11-19': '8'
   Now You See Me:
     Molcsa:
     - '2013-10-27': '7'
@@ -247,26 +296,33 @@ multivoters:
     Tommy:
     - '2012-08-29': '7'
     - '2016-06-06': '8'
-  Jacob's Ladder:
+  Blade Runner:
     Rheya:
-    - '2011-07-04': '8'
-    - '2015-02-20': '10'
+    - '2011-12-19': '10'
+    - '2017-11-19': '9'
   Rocky Balboa:
     Molcsa:
     - '2013-10-28': '6'
     - '2014-08-06': '8'
+  'Harry Potter and the Deathly Hallows: Part 2':
+    Rheya:
+    - '2012-07-04': '10'
+    - '2017-11-19': '8'
+    Bensze:
+    - '2014-02-25': '7'
+    - '2014-03-18': '6'
   Rubber:
     Name:
     - '2014-12-01': '8'
     - '2016-05-15': '7'
+  'Nymphomaniac: Vol. II':
+    Rheya:
+    - '2014-03-31': '10'
+    - '2017-11-19': '8'
   The Prestige:
     Gweli:
     - '2010-10-26': '10'
     - '2015-12-28': '10'
-  The Milky Way:
-    Rheya:
-    - '2012-07-05': '7'
-    - '2017-06-16': '10'
   In the Heart of the Sea:
     Warc:
     - '2015-12-25': '8'
@@ -310,6 +366,21 @@ multivoters:
     Name:
     - '2015-01-11': '9'
     - '2016-09-05': '7'
+  The Avengers:
+    Molcsa:
+    - '2013-10-27': '7'
+    - '2016-04-11': '6'
+    Bensze:
+    - '2014-02-25': '9'
+    - '2014-02-27': '8'
+  Spring:
+    Rheya:
+    - '2015-07-06': '10'
+    - '2017-11-19': '7'
+  Good Night, and Good Luck.:
+    Rheya:
+    - '2012-09-03': '9'
+    - '2017-11-19': '8'
   Gods of Egypt:
     Name:
     - '2016-05-21': '4'
@@ -342,6 +413,18 @@ multivoters:
     Name:
     - '2015-01-19': '9'
     - '2016-11-03': '8'
+  Arrival:
+    Rheya:
+    - '2017-03-13': '10'
+    - '2017-11-19': '8'
+  Solaris:
+    Rheya:
+    - '2009-10-21': '10'
+    - '2017-11-19': '8'
+  Memento:
+    Rheya:
+    - '2009-07-13': '10'
+    - '2017-11-19': '8'
   Battleship:
     Name:
     - '2016-07-10': '4'
@@ -362,10 +445,22 @@ multivoters:
     Name:
     - '2016-06-12': '6'
     - '2016-06-17': '5'
+  Enemy:
+    Rheya:
+    - '2014-06-17': '9'
+    - '2017-11-19': '10'
+  Wings of Desire:
+    Rheya:
+    - '2012-08-18': '10'
+    - '2017-11-19': '9'
   Hart's War:
     Molcsa:
     - '2012-12-06': '8'
     - '2014-01-16': '7'
+  The Family Fang:
+    Rheya:
+    - '2017-01-01': '9'
+    - '2017-11-19': '8'
   Jersey Girl:
     Molcsa:
     - '2013-10-28': '7'
@@ -382,10 +477,22 @@ multivoters:
     Molcsa:
     - '2012-09-15': '8'
     - '2015-08-09': '7'
+  'Sin City: A Dame to Kill For':
+    Rheya:
+    - '2015-10-18': '10'
+    - '2017-11-19': '8'
+  The Brave:
+    Rheya:
+    - '2009-09-18': '9'
+    - '2017-11-19': '8'
   The Fast and the Furious:
     Molcsa:
     - '2013-11-18': '5'
     - '2014-03-10': '6'
+  Death of a Salesman:
+    Rheya:
+    - '2012-10-14': '10'
+    - '2017-11-19': '8'
   Southland Tales:
     Rheya:
     - '2011-12-01': '7'
@@ -406,6 +513,10 @@ multivoters:
     Molcsa:
     - '2013-11-09': '8'
     - '2015-05-18': '9'
+  Hardcore Henry:
+    Rheya:
+    - '2016-12-23': '9'
+    - '2017-11-19': '7'
   Blade:
     Name:
     - '2016-05-20': '7'
@@ -418,6 +529,10 @@ multivoters:
     Rheya:
     - '2011-08-16': '7'
     - '2014-10-23': '9'
+  London:
+    Rheya:
+    - '2009-03-31': '10'
+    - '2017-11-19': '9'
   Guardians of the Galaxy:
     Name:
     - '2014-11-27': '5'
@@ -430,22 +545,42 @@ multivoters:
     Name:
     - '2016-05-14': '4'
     - '2016-07-10': '6'
+  Reign Over Me:
+    Rheya:
+    - '2012-08-26': '9'
+    - '2017-11-19': '7'
+  How I Ended This Summer:
+    Rheya:
+    - '2011-10-05': '10'
+    - '2017-11-19': '8'
   The Last Samurai:
     Molcsa:
     - '2013-10-27': '9'
     - '2015-02-20': '8'
-  'Harry Potter and the Deathly Hallows: Part 2':
-    Bensze:
-    - '2014-02-25': '7'
-    - '2014-03-18': '6'
+  The Final Girls:
+    Rheya:
+    - '2015-10-19': '10'
+    - '2017-11-19': '6'
   We're the Millers:
     Molcsa:
     - '2014-01-09': '8'
     - '2014-03-24': '7'
+  Angel's Egg:
+    Rheya:
+    - '2014-02-13': '9'
+    - '2017-11-19': '8'
+  Detachment:
+    Rheya:
+    - '2012-08-23': '10'
+    - '2017-11-19': '8'
   The Girl with the Dragon Tattoo:
     Molcsa:
     - '2013-10-27': '8'
     - '2015-08-14': '9'
+  Hesher:
+    Rheya:
+    - '2013-01-31': '9'
+    - '2017-11-19': '8'
   The Phantom of Liberty:
     Rheya:
     - '2012-08-21': '8'
@@ -462,14 +597,18 @@ multivoters:
     Name:
     - '2014-12-01': '9'
     - '2016-05-14': '8'
-  This Is England:
-    Rheya:
-    - '2010-10-27': '8'
-    - '2017-06-11': '10'
   Casino Royale:
     Molcsa:
     - '2014-03-11': '6'
     - '2015-10-31': '7'
+  The Godfather:
+    Rheya:
+    - '2011-07-04': '9'
+    - '2017-11-19': '8'
+  The Artist:
+    Rheya:
+    - '2012-02-07': '10'
+    - '2017-11-19': '8'
   Despicable Me:
     Gweli:
     - '2013-02-16': '6'
@@ -490,10 +629,18 @@ multivoters:
     Molcsa:
     - '2013-11-18': '7'
     - '2015-06-03': '8'
+  Inherit the Wind:
+    Rheya:
+    - '2013-06-17': '9'
+    - '2017-11-19': '8'
   The Discreet Charm of the Bourgeoisie:
     Rheya:
     - '2012-08-19': '8'
     - '2017-06-16': '10'
+  Honeymoon:
+    Rheya:
+    - '2014-09-14': '9'
+    - '2017-11-19': '7'
   My Bloody Valentine:
     Rheya:
     - '2011-07-12': '4'
@@ -510,10 +657,22 @@ multivoters:
     Tommy:
     - '2014-03-30': '9'
     - '2014-06-16': '10'
+  Mother!:
+    Rheya:
+    - '2017-10-19': '10'
+    - '2017-11-19': '8'
+  As Above, So Below:
+    Rheya:
+    - '2014-11-23': '9'
+    - '2017-11-19': '7'
   The Royal Tenenbaums:
     Rheya:
     - '2013-07-30': '7'
     - '2013-12-20': '9'
+  Eraserhead:
+    Rheya:
+    - '2011-07-08': '10'
+    - '2017-11-19': '7'
   Twelve Monkeys:
     Molcsa:
     - '2012-09-15': '10'
@@ -526,6 +685,10 @@ multivoters:
     Molcsa:
     - '2013-10-27': '9'
     - '2013-11-22': '8'
+  Blade Runner 2049:
+    Rheya:
+    - '2017-10-06': '10'
+    - '2017-11-19': '9'
   The Walking Dead:
     Molcsa:
     - '2013-10-30': '8'
@@ -538,12 +701,16 @@ multivoters:
     Bensze:
     - '2014-04-21': '6'
     - '2014-05-14': '5'
+  It Follows:
+    Bervi:
+    - '2015-07-12': '7'
+    - '2015-08-08': '6'
 multivoterstat:
   Name: 20
+  Rheya: 59
   Molcsa: 45
-  Bensze: 9
   Bervi: 4
-  Rheya: 17
+  Bensze: 9
   Gweli: 5
   Tommy: 5
   Warc: 3
