@@ -101,11 +101,6 @@ top25:
     avg_vote: '8.75'
     votes: '4'
 multivoters:
-  Jacob's Ladder:
-    Rheya:
-    - '2011-07-04': '8'
-    - '2015-02-20': '10'
-    - '2017-11-19': '8'
   Stay:
     Molcsa:
     - '2012-09-15': '9'
@@ -114,16 +109,21 @@ multivoters:
     Rheya:
     - '2012-12-10': '10'
     - '2017-11-19': '8'
-  Batman Begins:
-    Molcsa:
-    - '2013-10-27': '9'
-    - '2014-04-22': '10'
-    - '2014-11-10': '9'
   The Milky Way:
     Rheya:
     - '2012-07-05': '7'
     - '2017-06-16': '10'
     - '2017-11-19': '9'
+  Batman Begins:
+    Molcsa:
+    - '2013-10-27': '9'
+    - '2014-04-22': '10'
+    - '2014-11-10': '9'
+  Jacob's Ladder:
+    Rheya:
+    - '2011-07-04': '8'
+    - '2015-02-20': '10'
+    - '2017-11-19': '8'
   This Is England:
     Rheya:
     - '2010-10-27': '8'
@@ -342,6 +342,10 @@ multivoters:
     Gweli:
     - '2010-10-27': '3'
     - '2016-05-25': '6'
+  Donnie Darko:
+    Rheya:
+    - '2011-10-09': '8'
+    - '2017-11-28': '9'
   We Are Still Here:
     Rheya:
     - '2015-09-24': '6'
@@ -725,8 +729,8 @@ multivoters:
     - '2015-07-12': '7'
     - '2015-08-08': '6'
 multivoterstat:
-  Rheya: 64
   Molcsa: 45
+  Rheya: 65
   Name: 20
   Bervi: 4
   Bensze: 9
