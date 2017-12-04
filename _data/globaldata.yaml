@@ -1,11 +1,11 @@
 ---
 top25:
   1:
-    title: Rush
+    title: 'Cosmos: A Space-Time Odyssey'
     avg_vote: '9.33'
     votes: '3'
   2:
-    title: 'Cosmos: A Space-Time Odyssey'
+    title: Rush
     avg_vote: '9.33'
     votes: '3'
   3:
@@ -33,7 +33,7 @@ top25:
     avg_vote: '9.00'
     votes: '7'
   9:
-    title: Blade Runner 2049
+    title: It's a Wonderful Life
     avg_vote: '9.00'
     votes: '3'
   10:
@@ -49,7 +49,7 @@ top25:
     avg_vote: '9.00'
     votes: '3'
   13:
-    title: It's a Wonderful Life
+    title: Blade Runner 2049
     avg_vote: '9.00'
     votes: '3'
   14:
@@ -77,15 +77,15 @@ top25:
     avg_vote: '8.78'
     votes: '9'
   20:
-    title: One Flew Over the Cuckoo's Nest
-    avg_vote: '8.75'
-    votes: '4'
-  21:
     title: The Good, the Bad and the Ugly
     avg_vote: '8.75'
     votes: '4'
-  22:
+  21:
     title: The Artist
+    avg_vote: '8.75'
+    votes: '4'
+  22:
+    title: Life of Brian
     avg_vote: '8.75'
     votes: '4'
   23:
@@ -93,13 +93,13 @@ top25:
     avg_vote: '8.75'
     votes: '4'
   24:
-    title: Life of Brian
-    avg_vote: '8.75'
-    votes: '4'
-  25:
     title: Interstellar
     avg_vote: '8.75'
     votes: '8'
+  25:
+    title: One Flew Over the Cuckoo's Nest
+    avg_vote: '8.75'
+    votes: '4'
 multivoters:
   Stay:
     Molcsa:
